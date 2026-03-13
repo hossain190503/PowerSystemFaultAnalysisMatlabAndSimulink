@@ -295,7 +295,9 @@ Using **MATLAB Simulink**, simulate the transmission line and analyze:
 
 ---
 
-# Simulation copy from WORKSHEET
+MATLAB SIMULINK Output
+
+![sim](https://github.com/hossain190503/PowerSystemFaultAnalysisMatlabAndSimulink/blob/main/PowerSystemFaultAnalysisMatlabAndSimulink/figure/simulink.png?raw=true)
 
 # Experiment No: 03
 
@@ -344,7 +346,7 @@ Using **MATLAB**, the following can be performed:
 
 ---
 
-#  Figure 3
+![exp3](https://raw.githubusercontent.com/hossain190503/PowerSystemFaultAnalysisMatlabAndSimulink/refs/heads/main/PowerSystemFaultAnalysisMatlabAndSimulink/figure/Ex3.png)
 
 
 ------
@@ -395,6 +397,8 @@ Using **MATLAB Simulink**, simulate the transmission line model and analyze:
 | Load Power | 800 MW |
 | Power Factor | 0.8 Lagging |
 
----
+MATLAB SIMULINK Output
+
+![sim](https://github.com/hossain190503/PowerSystemFaultAnalysisMatlabAndSimulink/blob/main/PowerSystemFaultAnalysisMatlabAndSimulink/figure/simulink.png?raw=true)
 
 
