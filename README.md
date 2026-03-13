@@ -44,6 +44,8 @@ The time is called **Operating Time** or **Delay Time**.
 
 The various time-delayed relay are defined by the following general equation:
 
+![equ](https://github.com/hossain190503/PowerSystemFaultAnalysisMatlabAndSimulink/blob/main/PowerSystemFaultAnalysisMatlabAndSimulink/figure/EQ.png?raw=true)
+
 Where:
 
 - **TSD** = Time Setting Dial  
