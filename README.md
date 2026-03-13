@@ -78,7 +78,7 @@ Find the **Operating Time of the Time-Delayed Overcurrent Relay** where:
 - **If = 0 to 100 A**  
 - **Ip = 5 A**
 
-# Figure 1ex
+![equ1](https://github.com/hossain190503/PowerSystemFaultAnalysisMatlabAndSimulink/blob/main/PowerSystemFaultAnalysisMatlabAndSimulink/figure/Ex1.png?raw=true)
 
 # Experiment No: 02
 
@@ -200,7 +200,7 @@ Using **MATLAB**, determine:
 - Simulink
 - GitHub Markdown
 
-# EX 2 output
+![exp2](https://github.com/hossain190503/PowerSystemFaultAnalysisMatlabAndSimulink/blob/main/PowerSystemFaultAnalysisMatlabAndSimulink/figure/Ex2.png)
 ----------------
 
 ## Problem for Medium Transmission Line
@@ -245,8 +245,7 @@ Using **MATLAB**, calculate the following:
 
 ---
 
-#imag 2_2
-
+![exp2_2](https://github.com/hossain190503/PowerSystemFaultAnalysisMatlabAndSimulink/blob/main/PowerSystemFaultAnalysisMatlabAndSimulink/figure/Ex2_2%20(2).png)
 
 -----------
 ## Simulation using Simulink
